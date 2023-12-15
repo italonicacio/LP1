@@ -1,0 +1,509 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aloca",
+				"aloca_campo"
+			],
+			[
+				"cont",
+				"contadorB"
+			],
+			[
+				"jog",
+				"jogadorB"
+			],
+			[
+				"joga",
+				"jogadorA"
+			],
+			[
+				"jogad",
+				"jogadorB"
+			],
+			[
+				"jogador",
+				"jogadorA"
+			],
+			[
+				"fib",
+				"fibA"
+			],
+			[
+				"Fib",
+				"fibB"
+			],
+			[
+				"vet",
+				"vetorial"
+			],
+			[
+				"pr",
+				"prdVet"
+			],
+			[
+				"nome",
+				"nomefuncionario"
+			],
+			[
+				"nu",
+				"numerofuncionari"
+			],
+			[
+				"horas",
+				"horastrabalhadas"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"text-dec",
+				"text-decoration-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"se",
+				"sans-serif"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"borderbott",
+				"border-bottom-color"
+			],
+			[
+				"border-to",
+				"border-top-style"
+			],
+			[
+				"border-t",
+				"border-top-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"border-r",
+				"border-right-style"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"margint",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"border-le",
+				"border-left-width"
+			],
+			[
+				"borderc",
+				"border-color"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"print (\"ola\")",
+			"print"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/aluno.CI-HP/Desktop/jogo da velha/jogo da velha.sublime-project",
+		"/C/Users/aluno.CI-HP/Desktop/jogo da velha/teclado.h",
+		"/C/Users/aluno.CI-HP/Desktop/jogo da velha/jogovelha.h",
+		"/C/Users/aluno.CI-HP/Desktop/jogo da velha/teclado.c",
+		"/C/Users/aluno.CI-HP/Desktop/campo minado/main.c",
+		"/C/Users/aluno.CI-HP/Downloads/lab1.txt",
+		"/C/Users/aluno.CI-HP/Desktop/jogo da velha/jogovelha.c",
+		"/C/Users/aluno.CI-HP/Desktop/jogo da velha/main.c",
+		"/C/Users/aluno.CI-HP/Desktop/campo minado/campo_minado.h",
+		"/C/Users/aluno.CI-HP/Desktop/campo minado/jogo.txt",
+		"/C/Users/aluno.CI-HP/Desktop/campo minado/teclado.c",
+		"/C/Users/aluno.CI-HP/Desktop/campo minado/campo_minado.c",
+		"/C/Users/aluno.CI-HP/Desktop/campo minado/teclado.h",
+		"/C/Users/aluno.CI-HP/AppData/Roaming/Sublime Text 3/Packages/User/MyC.sublime-build",
+		"/C/Users/aluno.CI-HP/Desktop/campo minado/campo minado.sublime-project",
+		"/C/Users/italo/Desktop/Labirinto/labirinto.cpp",
+		"/C/Users/italo/Desktop/Labirinto/main.cpp",
+		"/C/Program Files/GIMP 2/Python/DLLs/_tkinter.pyd",
+		"/C/Program Files/GIMP 2/Python/DLLs/pyc.ico",
+		"/C/Users/italo/Desktop/Labirinto/teclado.cpp",
+		"/C/Users/italo/Desktop/Labirinto/labirinto.h",
+		"/C/Users/italo/Desktop/Labirinto/teclado.h",
+		"/C/Users/italo/AppData/Roaming/Sublime Text 3/Packages/User/myC.sublime-build",
+		"/C/Users/italo/AppData/Roaming/Sublime Text 3/Packages/User/MyCtwo.sublime-build",
+		"/C/Users/italo/AppData/Roaming/Sublime Text 3/Packages/User/MyCC++.sublime-build",
+		"/C/Users/italo/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-settings",
+		"/C/Programas/C/programas/campo minado/main.c",
+		"/C/Programas/C/programas/campo minado/campo minado.sublime-workspace",
+		"/C/Programas/C/jogo labirinto/labirinto.h",
+		"/C/Programas/C/exercicios uri/exercicio 1397.c",
+		"/C/Programas/C/exercicios uri/exercicio 8.c",
+		"/C/Programas/C/exercicios uri/exercicio 7.c",
+		"/C/Programas/C/exercicios uri/exercicio 6.c",
+		"/C/Programas/C/exercicios uri/exercicio 5.c",
+		"/C/Programas/C/exercicios uri/exercicio 4.c",
+		"/C/Programas/C/exercicios uri/exercicio 3.c",
+		"/C/Programas/C/exercicios uri/exercicio 1164.c",
+		"/C/Programas/C/exercicios uri/exercicio 1154.c",
+		"/C/Programas/C/exercicios uri/exercicio 1114.c",
+		"/C/Programas/C/programas/vetorial.c",
+		"/C/Programas/C/exercicios uri/exercicio 1176.c",
+		"/C/Programas/C/exercicios uri/exercicio 1531.c",
+		"/C/Programas/C/exercicios uri/exercicio 2164.c",
+		"/C/Programas/C/exercicios uri/exercicio 1035.c",
+		"/C/Programas/C/exercicios uri/exercicio 1080.c",
+		"/C/Users/italo/Google Drive/Programação/agenda/index.php",
+		"/C/Programas/C/descomplica/Variaveis e Expressõs/ex10 11.c",
+		"/C/Programas/C/descomplica/Variaveis e Expressõs/ex 6 7 8 9.c",
+		"/C/Programas/C/descomplica/Variaveis e Expressõs/ex6 7 8.c",
+		"/C/Programas/C/descomplica/Variaveis e Expressõs/ex6.c",
+		"/C/Programas/C/descomplica/Variaveis e Expressõs/ex5.c",
+		"/C/Programas/C/descomplica/Variaveis e Expressõs/ex4.c",
+		"/C/Programas/C/descomplica/Variaveis e Expressõs/ex3.c",
+		"/C/Programas/C/descomplica/Variaveis e Expressõs/ex2.c",
+		"/C/Programas/C/descomplica/Variaveis e Expressõs/exercicio 1.c",
+		"/C/Users/italo/Documents/Octave/lista 3/argf.m",
+		"/C/Programas/C/exercicios uri/exercicio 10.c",
+		"/C/Program Files (x86)/Blender Foundation/Blender/2.78/python/lib/__pycache__/_bootlocale.cpython-35.pyc",
+		"/C/Programas/C/exercicios uri/exercicio 9.c",
+		"/C/Users/italo/AppData/Roaming/uTorrent/uTorrent.exe",
+		"/C/MinGW/bin/pthreadGC-3.dll",
+		"/C/Programas/C/exercicios uri/exercicio 2.c",
+		"/C/MinGW/bin/libstdc++-6.dll",
+		"/C/MinGW/bin/c++.exe",
+		"/C/Programas/C/exercicios uri/exercicio 1.c",
+		"/C/Programas/C/testes/teste 1.c",
+		"/C/Programas/The Drawner/index.py",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Programas/Sites/site de jogo/jogos.php",
+		"/D/Track01.cda",
+		"/C/Programas/Sites/jogos.php",
+		"/C/Users/italo/AppData/Local/Programs/Python/Python36/include/pygame/_camera.h",
+		"/C/Program Files (x86)/Inkscape/python/DLLs/_bsddb.pyd",
+		"/C/Program Files (x86)/Inkscape/python/Lib/audiodev.py",
+		"/C/Programas/html visual/testes/index.php",
+		"/C/Users/italo/AppData/Local/Microsoft/Windows/INetCache/IE/6W79T4RH/imgcache[1].0",
+		"/C/Program Files (x86)/Mobirise/imageformats/qgif.dll",
+		"/C/Programas/html visual/henrique_otica/index.html",
+		"/C/Users/italo/AppData/Local/Jagex/RuneScape/Settings.jcache",
+		"/C/Users/italo/AppData/Local/Programs/Python/Python36/Scripts/pip.exe",
+		"/C/Programas/html visual/henrique_otica/assets/dropdown-menu/style.css",
+		"/C/Program Files/Inkscape/python/Scripts/coverage.exe",
+		"/C/Program Files/Inkscape/python/Scripts/coverage-2.7.exe",
+		"/C/Programas/html visual/index.html",
+		"/C/Users/italo/Downloads/f.txt",
+		"/C/Users/italo/Desktop/BootStrap/img/glyphicons-halflings-white.png",
+		"/C/Users/italo/Desktop/BootStrap/img/glyphicons-halflings.png",
+		"/C/Users/italo/Desktop/BootStrap/css/bootstrap-responsive.min.css",
+		"/C/Users/italo/Desktop/BootStrap/css/bootstrap-responsive.css",
+		"/C/Users/italo/Desktop/BootStrap/css/bootstrap.css",
+		"/C/Users/italo/Documents/index.html",
+		"/C/Users/italo/Desktop/treino/abdomem.jpg",
+		"/C/xampp/htdocs/vai_com_fe_eventos/adm_index.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/logica_validar_ativo_ingresso.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/logica_atualizar_ingresso.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/logica_atualizar_evento.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/logica_validar_inativo_ingresso.php",
+		"/C/Users/italo/Documents/project.mobirise",
+		"/C/Users/italo/Downloads/Copy of Python_cmd.sublime-build",
+		"/C/xampp/htdocs/vai_com_fe_eventos/numero_maximo.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/codigo_sql_construção.sql",
+		"/C/xampp/htdocs/vai_com_fe_eventos/numero_maximo_reclamar.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/mostrar_ingresso.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/logica_gerar_ingresso.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/gerar_ingresso.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/ingresso_outro_evento.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/validar_ingresso.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/ingresso_ja_validado.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/verificar_status_ingresso.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/logica_buscar_ingresso_banco.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/atualizar_ingresso.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/status_ingresso.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/logica_verificar_status_ingresso.php",
+		"/C/xampp/htdocs/Agenda/maquiagem.css",
+		"/C/xampp/htdocs/vai_com_fe_eventos/logica_login.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/atualizar_ingresso_dados.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/login.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/logica_logout.php",
+		"/C/xampp/htdocs/Agenda/logica_logout.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/atualizar_evento.php",
+		"/C/xampp/htdocs/vai_com_fe_eventos/logica_cadastrar_evento.php",
+		"/C/xampp/htdocs/Agenda/cadastrar_usuarios.php",
+		"/C/xampp/htdocs/Agenda/login.php",
+		"/C/xampp/htdocs/Agenda/cadastrar_usuarios_banco.php",
+		"/C/Program Files (x86)/Portal Knights/portal_knights.cfg",
+		"/C/Program Files (x86)/Portal Knights/portal_knights.d3d11.ksp",
+		"/C/Program Files (x86)/Portal Knights/core_game_small.kfc_dir",
+		"/C/Program Files (x86)/Portal Knights/core_game_small.kfc_data"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"]){",
+			";\n",
+			"\"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "Packages/User/MyC.sublime-build",
+	"project": "revisaostruct.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

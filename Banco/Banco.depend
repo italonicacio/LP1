@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1537295654 source:c:\users\aluno.ci-hp\documents\banco\main.cpp
+	<stdio.h>
+	<string.h>
+	"banco.h"
+
+1537295842 c:\users\aluno.ci-hp\documents\banco\transacao.h
+
+1537295842 source:c:\users\aluno.ci-hp\documents\banco\transacao.cpp
+	<stdio.h>
+	"transacao.h"
+
+1537295842 c:\users\aluno.ci-hp\documents\banco\conta.h
+	<vector>
+	"transacao.h"
+
+1537295842 source:c:\users\aluno.ci-hp\documents\banco\conta.cpp
+	"conta.h"
+	<stdio.h>
+
+1537296229 source:c:\users\aluno.ci-hp\documents\banco\banco.cpp
+	"banco.h"
+	<string.h>
+
+1537295366 c:\users\aluno.ci-hp\documents\banco\banco.h
+	"conta.h"
+	<vector>
+
+1537897476 source:c:\users\aluno.ci-hp\desktop\banco\banco.cpp
+	"banco.h"
+	<string.h>
+	"persistencia_banco.h"
+
+1537897492 c:\users\aluno.ci-hp\desktop\banco\banco.h
+	"conta.h"
+	<vector>
+
+1537897899 c:\users\aluno.ci-hp\desktop\banco\conta.h
+	<vector>
+	"transacao.h"
+
+1537387312 c:\users\aluno.ci-hp\desktop\banco\transacao.h
+
+1537896063 c:\users\aluno.ci-hp\desktop\banco\persistencia_banco.h
+	"banco.h"
+
+1537387312 source:c:\users\aluno.ci-hp\desktop\banco\conta.cpp
+	"conta.h"
+	<stdio.h>
+
+1537898872 source:c:\users\aluno.ci-hp\desktop\banco\main.cpp
+	<stdio.h>
+	<string.h>
+	"banco.h"
+	"persistencia_banco.h"
+
+1537899857 source:c:\users\aluno.ci-hp\desktop\banco\persistencia_banco.cpp
+	<stdio.h>
+	<stdlib.h>
+	"persistencia_banco.h"
+
+1537387312 source:c:\users\aluno.ci-hp\desktop\banco\transacao.cpp
+	<stdio.h>
+	"transacao.h"
+

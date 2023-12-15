@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1540320392 source:c:\users\italo\google drive\programação\c\programas\lp1\pcv\grafo.cpp
+	"grafo.h"
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+
+1541348960 c:\users\italo\google drive\programação\c\programas\lp1\pcv\grafo.h
+	<vector>
+	"rota.h"
+
+1539111096 c:\users\italo\google drive\programação\c\programas\lp1\pcv\rota.h
+
+1541789272 source:c:\users\italo\google drive\programação\c\programas\lp1\pcv\hc.cpp
+	"HC.h"
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<algorithm>
+	<math.h>
+	<time.h>
+
+1541397590 c:\users\italo\google drive\programação\c\programas\lp1\pcv\hc.h
+	"grafo.h"
+
+1541789325 source:c:\users\italo\google drive\programação\c\programas\lp1\pcv\main.cpp
+	"permuta_PCV.h"
+	<stdio.h>
+	<stdlib.h>
+	"HC.h"
+	"grafo.h"
+	<time.h>
+
+1539283406 c:\users\italo\google drive\programação\c\programas\lp1\pcv\permuta_pcv.h
+	"grafo.h"
+	"rota.h"
+
+1539283406 source:c:\users\italo\google drive\programação\c\programas\lp1\pcv\permuta_pcv.cpp
+	<stdio.h>
+	"permuta_PCV.h"
+
+1540316792 source:d:\pcv\grafo.cpp
+	"grafo.h"
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+
+1541345360 d:\pcv\grafo.h
+	<vector>
+	"rota.h"
+
+1539107496 d:\pcv\rota.h
+
+1541785672 source:d:\pcv\hc.cpp
+	"HC.h"
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<algorithm>
+	<math.h>
+	<time.h>
+
+1541393990 d:\pcv\hc.h
+	"grafo.h"
+
+1541787448 source:d:\pcv\main.cpp
+	"permuta_PCV.h"
+	<stdio.h>
+	<stdlib.h>
+	"HC.h"
+	"grafo.h"
+	<time.h>
+
+1539279806 d:\pcv\permuta_pcv.h
+	"grafo.h"
+	"rota.h"
+
+1539279806 source:d:\pcv\permuta_pcv.cpp
+	<stdio.h>
+	"permuta_PCV.h"
+
+1540316792 source:f:\pcv\grafo.cpp
+	"grafo.h"
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+
+1541345360 f:\pcv\grafo.h
+	<vector>
+	"rota.h"
+
+1539107496 f:\pcv\rota.h
+
+1542051940 source:f:\pcv\hc.cpp
+	"HC.h"
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<algorithm>
+	<math.h>
+
+1542029740 f:\pcv\hc.h
+	"grafo.h"
+
+1542030814 source:f:\pcv\main.cpp
+	"permuta_PCV.h"
+	<stdio.h>
+	<stdlib.h>
+	"HC.h"
+	"grafo.h"
+	<time.h>
+
+1539279806 f:\pcv\permuta_pcv.h
+	"grafo.h"
+	"rota.h"
+
+1539279806 source:f:\pcv\permuta_pcv.cpp
+	<stdio.h>
+	"permuta_PCV.h"
+
+1540316792 source:c:\users\aluno.ci-hp\desktop\pcv\grafo.cpp
+	"grafo.h"
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+
+1541345360 c:\users\aluno.ci-hp\desktop\pcv\grafo.h
+	<vector>
+	"rota.h"
+
+1539107496 c:\users\aluno.ci-hp\desktop\pcv\rota.h
+
+1542030731 source:c:\users\aluno.ci-hp\desktop\pcv\hc.cpp
+	"HC.h"
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<algorithm>
+	<math.h>
+
+1542029740 c:\users\aluno.ci-hp\desktop\pcv\hc.h
+	"grafo.h"
+
+1542030814 source:c:\users\aluno.ci-hp\desktop\pcv\main.cpp
+	"permuta_PCV.h"
+	<stdio.h>
+	<stdlib.h>
+	"HC.h"
+	"grafo.h"
+	<time.h>
+
+1539279806 c:\users\aluno.ci-hp\desktop\pcv\permuta_pcv.h
+	"grafo.h"
+	"rota.h"
+
+1539279806 source:c:\users\aluno.ci-hp\desktop\pcv\permuta_pcv.cpp
+	<stdio.h>
+	"permuta_PCV.h"
+
